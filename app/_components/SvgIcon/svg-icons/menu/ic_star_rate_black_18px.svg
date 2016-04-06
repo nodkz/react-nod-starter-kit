@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.2 (25235) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_star_rate_black_18px</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="mobile" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Left-menu-logged-accounts" sketch:type="MSArtboardGroup" transform="translate(-18.000000, -585.000000)" fill="#95A5A6">
+            <g id="Service" sketch:type="MSLayerGroup" transform="translate(-14.000000, 532.000000)">
+                <g id="ic_star_rate_black_18px" transform="translate(32.000000, 53.000000)" sketch:type="MSShapeGroup">
+                    <g id="Group">
+                        <path d="M8.02173913,11.7652174 L12.9818478,15.375 L11.0833696,9.54586957 L16.0434783,6.01630435 L9.96032609,6.01630435 L8.02173913,0 L6.08315217,6.01630435 L0,6.01630435 L4.9601087,9.54586957 L3.06163043,15.375 L8.02173913,11.7652174 Z" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

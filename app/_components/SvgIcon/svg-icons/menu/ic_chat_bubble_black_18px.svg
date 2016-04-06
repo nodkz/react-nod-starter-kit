@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.2 (25235) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_chat_bubble_black_18px</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="mobile" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Left-menu-logged-accounts" sketch:type="MSArtboardGroup" transform="translate(-21.000000, -554.000000)" fill="#95A5A6">
+            <g id="ic_chat_bubble_black_18px" sketch:type="MSLayerGroup" transform="translate(21.000000, 554.000000)">
+                <g id="Group" sketch:type="MSShapeGroup">
+                    <path d="M1.61777778,0.311111111 C0.899111111,0.311111111 0.311111111,0.899111111 0.311111111,1.61777778 L0.311111111,13.3777778 L2.92444444,10.7644444 L12.0711111,10.7644444 C12.7897778,10.7644444 13.3777778,10.1764444 13.3777778,9.45777778 L13.3777778,1.61777778 C13.3777778,0.899111111 12.7897778,0.311111111 12.0711111,0.311111111 L1.61777778,0.311111111 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

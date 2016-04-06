@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="16px" height="4px" viewBox="0 0 16 4" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.2 (25235) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_more_horiz_black_18px</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="mobile" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="List" sketch:type="MSArtboardGroup" transform="translate(-274.000000, -440.000000)">
+            <g id="card-copy" sketch:type="MSLayerGroup" transform="translate(5.000000, 43.000000)">
+                <g id="ic_more_horiz_black_18px" transform="translate(252.000000, 387.000000)" sketch:type="MSShapeGroup">
+                    <g id="Group">
+                        <path d="M0,0 L24,0 L24,24 L0,24 L0,0 Z" id="Shape"></path>
+                        <path d="M19,10 C17.9,10 17,10.9 17,12 C17,13.1 17.9,14 19,14 C20.1,14 21,13.1 21,12 C21,10.9 20.1,10 19,10 L19,10 Z M31,10 C29.9,10 29,10.9 29,12 C29,13.1 29.9,14 31,14 C32.1,14 33,13.1 33,12 C33,10.9 32.1,10 31,10 L31,10 Z M25,10 C23.9,10 23,10.9 23,12 C23,13.1 23.9,14 25,14 C26.1,14 27,13.1 27,12 C27,10.9 26.1,10 25,10 L25,10 Z" id="Shape" fill="#95A5A6"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

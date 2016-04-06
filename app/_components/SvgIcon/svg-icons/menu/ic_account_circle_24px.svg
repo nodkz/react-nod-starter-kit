@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="31px" height="31px" viewBox="0 0 31 31" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.2 (25235) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_account_circle_black_24px (1)</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="mobile" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Left-menu-not-logged" sketch:type="MSArtboardGroup" transform="translate(-21.000000, -52.000000)">
+            <g id="Account" sketch:type="MSLayerGroup" transform="translate(19.000000, 50.000000)">
+                <g id="ic_account_circle_black_24px-(1)" sketch:type="MSShapeGroup">
+                    <g id="Group">
+                        <path d="M17.9583333,2.91666667 C9.65533333,2.91666667 2.91666667,9.65533333 2.91666667,17.9583333 C2.91666667,26.2613333 9.65533333,33 17.9583333,33 C26.2613333,33 33,26.2613333 33,17.9583333 C33,9.65533333 26.2613333,2.91666667 17.9583333,2.91666667 L17.9583333,2.91666667 Z M17.9583333,7.42916667 C20.45525,7.42916667 22.4708333,9.44475 22.4708333,11.9416667 C22.4708333,14.4385833 20.45525,16.4541667 17.9583333,16.4541667 C15.4614167,16.4541667 13.4458333,14.4385833 13.4458333,11.9416667 C13.4458333,9.44475 15.4614167,7.42916667 17.9583333,7.42916667 L17.9583333,7.42916667 Z M17.9583333,28.7883333 C14.1979167,28.7883333 10.8737083,26.863 8.93333333,23.9449167 C8.97845833,20.951625 14.95,19.3120833 17.9583333,19.3120833 C20.951625,19.3120833 26.9382083,20.951625 26.9833333,23.9449167 C25.0429583,26.863 21.71875,28.7883333 17.9583333,28.7883333 L17.9583333,28.7883333 Z" id="Shape" fill="#95A5A6"></path>
+                        <path d="M0,0 L35,0 L35,35 L0,35 L0,0 Z" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

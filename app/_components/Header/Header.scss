@@ -1,0 +1,51 @@
+@import "./../variables.scss";
+
+.root {
+  display: flex;
+  align-items: center;
+  padding: 5px 5px 2px 5px;
+  background-color: #fff;
+  border-bottom: 1px solid gray;
+}
+
+.logo {
+  font-size: 14px;
+  font-weight: 500;
+  color: #34495E;
+  /*
+  border: 1px solid #34495E;
+  border-radius: 2px;
+  */
+  padding: 2px 8px;
+  margin: 2px;
+}
+
+.left {
+  flex: 0 0 auto;
+}
+
+.center {
+  flex: 1 1 auto;
+  text-align: center;
+}
+
+.right {
+  flex: 0 0 30px;
+}
+
+.icon {
+  width: 24px;
+  padding: 2px;
+
+  &.menuTab {
+    padding: 1px;
+  }
+
+  &.menuTab svg {
+    border: 1px solid #333;
+  }
+}
+
+
+
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="13px" height="16px" viewBox="0 0 13 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.2 (25235) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="mobile" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Resume" sketch:type="MSArtboardGroup" transform="translate(-285.000000, -265.000000)" fill="#95A5A6">
+            <path d="M285.888889,279.222222 C285.888889,280.2 286.688889,281 287.666667,281 L294.777778,281 C295.755556,281 296.555556,280.2 296.555556,279.222222 L296.555556,268.555556 L285.888889,268.555556 L285.888889,279.222222 L285.888889,279.222222 Z M297.444444,265.888889 L294.333333,265.888889 L293.444444,265 L289,265 L288.111111,265.888889 L285,265.888889 L285,267.666667 L297.444444,267.666667 L297.444444,265.888889 L297.444444,265.888889 Z" id="Shape-Copy" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>
